@@ -1,15 +1,13 @@
 import React, { Component } from 'react';
-
+import logo from './logo.svg';
 
 class Intro extends Component {
   render(){
     return(
       <div>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          Hello World
         </p>
-
-
       </div>
     );
   }
