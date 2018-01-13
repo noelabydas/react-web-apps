@@ -5,7 +5,7 @@ To run/edit the apps you need to have react installed on your Computer.
 
 ## Installation
 
-##Pre-requisites
+#### Pre-requisites
 
 Make sure you have Node and NPM installed on your Computer
 
@@ -38,4 +38,4 @@ The app should automatically run on the server `http://localhost:3000`
 
 To stop the server hit CTRL + C inside your terminal
 
-##React Projects
+## React Projects
