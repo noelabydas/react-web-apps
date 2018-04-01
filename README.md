@@ -25,6 +25,12 @@ After cloning the repo
 
 ```
 cd react-web-apps
+```
+
+Firstly, copy the node_modules folder and paste it inside the project folder(this it to add the node modules).
+You must do this for every project folder which you want to run.
+
+```
 cd <project-folder-name>
 ```
 
